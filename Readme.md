@@ -1,2 +1,2 @@
-Lib_A-1
--Sublib AA-1
+Lib_A-2
+-Sublib AA-2
