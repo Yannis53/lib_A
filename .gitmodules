@@ -1,0 +1,3 @@
+[submodule "Sublib_AA"]
+	path = Sublib_AA
+	url = git@github.com:Yannis53/Sublib_AA.git
